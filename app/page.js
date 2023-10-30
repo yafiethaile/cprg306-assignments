@@ -11,6 +11,8 @@ export default function Home() {
       <Link href="/week2" className= "block mb-2">Week 2</Link> 
       <Link href="/week3" className= "block mb-2">Week 3</Link>
       <Link href="/week4" className= "block mb-2">Week 4</Link>
+      <Link href="/week5" className= "block mb-2">Week 5</Link>
+      <Link href="/week6" className= "block mb-2">Week 6</Link>
       </p>
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
         
